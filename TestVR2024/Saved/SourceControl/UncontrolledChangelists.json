@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_BN.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_D.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_N.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_01ID_Tan.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_BN.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_D.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_N.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Quinn/T_Quinn_02ID_Tan.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Materials/Instances/Quinn/MI_Quinn_02.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_Tan.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_N.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_MSR_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_D.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_BN.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_Tan.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_N.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_MSR_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_D.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_BN.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Materials/M_Mannequin.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Meshes/SKM_MannyXR_left.uasset",
+				"C:/Users/The Man/Documents/Unreal Projects/TestVR2024/Content/Characters/MannequinsXR/Meshes/SKM_MannyXR_right.uasset"
+			]
+		}
+	]
+}
