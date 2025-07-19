@@ -72,3 +72,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/TestVR2024/Build
+/TestVR2024/Binaries
+/TestVR2024/Intermediate
+/TestVR2024/Saved/Cooked
+/TestVR2024/Saved/StagedBuilds
+/TestVR2024/Saved/Temp
+/TestVR2024/Saved
+/TestVR2024/Saved
+/TestVR2024/Saved
